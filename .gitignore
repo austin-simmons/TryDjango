@@ -4,3 +4,4 @@ __pycache__/
 *.sqlite3
 static_cdn/
 media_cdn/
+media/
